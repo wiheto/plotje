@@ -13,3 +13,6 @@ Some of the benefits include:
 3. Easier legends and colorbars.
 
 [Check out the jupyter notebook](https://github.com/wiheto/plotje/blob/master/notebook/examples.ipynb) for examples.
+
+Other examples can be seen in some of my recent articles: [here](https://www.biorxiv.org/content/10.1101/617027v1) or [here](https://www.biorxiv.org/content/10.1101/659508v1)
+
