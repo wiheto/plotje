@@ -1,7 +1,8 @@
 
 from mpl_toolkits.axes_grid1 import make_axes_locatable
-import numpy as np 
+import numpy as np
 import matplotlib.pyplot as plt
+
 
 def styler(ax, xoffset=-0.01, yoffset=-0.01, xlabel=None, ylabel=None, yticklabels=None, xticklabels=None, title=None, legend=False, leftaxis='on', bottomaxis='on', rotatexticks=False, colorbar=None, colorbarlabel=None, cbaroffset=0.25, aspectsquare=False, fontname='Montserrat', fontweight='regular', fontcolor='gray'):
     """
